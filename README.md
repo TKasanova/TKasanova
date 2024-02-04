@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tahira Kasanova
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  Data Science, Artificial Intelligence
-- 📫 How to reach me ...
+- 📫 How to reach me : tahirakasanovaa@gmail.com
 
 <!---
 TKasanova/TKasanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
