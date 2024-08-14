@@ -1,12 +1,11 @@
-                                                                                                                               # Data Scientist
+<h1 align="center">Hi 👋, I'm TahirA Kasanova</h1>
+<h3 align="center">Data Scientist</h3>
 
-👋 Hi, I’m Tahira Kasanova
+- 🎯 I’m currently working on **Data Science**
+  
+- 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI**
 
-🌱 I’m currently working on Data Science
-
-💬 Ask me about Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI
-
-📫 How to reach me : tahirakasanovaa@gmail.com
+- 📫 How to reach me [tahirakasanova@gmail.com](mailto:tahirakasanova@gmail.com)
 
 <!---
 TKasanova/TKasanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
