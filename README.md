@@ -47,11 +47,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
----
 
 ## 📊 GitHub Stats:
-
-![Tahira Kasanova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocak&show_icons=true&theme=radical)
+![Tahira Kasanova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TKasanova&show_icons=true&theme=radical)
 
 ---
 
