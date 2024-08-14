@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🌐 Socials:## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tahirakasanova)
 [![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thekasanova.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TKasanova)
