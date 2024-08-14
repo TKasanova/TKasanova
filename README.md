@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Tahira Kasanova
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  Data Science, Artificial Intelligence
+
+- 🌱 I’m currently working on Data Science
+
+
+💬 Ask me about Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI
+
 - 📫 How to reach me : tahirakasanovaa@gmail.com
 
 <!---
