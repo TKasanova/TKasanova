@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahira Kasanova</h1>
 <h3 align="center"> Data Analyst </h3>
 
-- 🎯 I’m currently working on **Data Science**
+- 🎯 I’m currently working on **Data Analyst**
   
 - 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI**
 
